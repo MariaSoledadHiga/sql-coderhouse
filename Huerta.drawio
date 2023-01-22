@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T16:45:11.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="AQ2J6eofd0UP0m0PzG8K" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T17:05:08.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="DKYLmuYi6wZqveo6ZuDx" version="20.8.10" type="github">
   <diagram name="Página-1" id="ylDFt_P1A7pdmHqrZeYs">
     <mxGraphModel dx="1321" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,6 +252,34 @@
         </mxCell>
         <mxCell id="8bM9OrV7rMDzd9lSsGnL-36" value="condiciones_favorables" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="H1frsoIfXZg_kvRdpejV-23" vertex="1">
           <mxGeometry x="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-24" value="Pertenecer&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="228" y="-800" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-25" value="Necesitar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-26" value="Cultivar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-27" value="Aplicar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-28" value="Atacar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8bM9OrV7rMDzd9lSsGnL-1" target="H1frsoIfXZg_kvRdpejV-24">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="220" y="-800" as="sourcePoint" />
+            <mxPoint x="320" y="-800" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1frsoIfXZg_kvRdpejV-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.187;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8bM9OrV7rMDzd9lSsGnL-2" target="H1frsoIfXZg_kvRdpejV-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="-630" as="sourcePoint" />
+            <mxPoint x="350" y="-680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
